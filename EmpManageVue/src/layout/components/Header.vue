@@ -27,7 +27,7 @@ const logout = () => {
 <template>
   <div class="header">
     <div class="logo">
-      <img src="@/assets/BUCT.png" alt="logo" style="width: 100px; height: 60px; margin-right: 10px;" />
+      <img src="@/assets/try1.png" alt="logo" style="width: 100px; height: 60px; margin-right: 10px;" />
       <span>员工人事调动管理系统</span>
     </div>
     <div class="user-info">
